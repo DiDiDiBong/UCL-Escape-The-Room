@@ -1,5 +1,5 @@
 # Welcome to Escape the Room
-Escape the Room is a group game project prototyped for PC. HTC Vive VR equipment is required in order to have the full experience of this game.
+Escape the Room is a group game project prototyped for PC. HTC Vive VR equipment is required in order to have the full experience of this game. In-game UI was not implemented due to the time constraint of the coursework, thus users are required to press Alt+F4 to quit the game.
 
 # System Manual
 ## Development/Deployment Environment
